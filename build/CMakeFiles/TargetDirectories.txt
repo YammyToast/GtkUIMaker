@@ -1,9 +1,0 @@
-/home/yammy/Code/GtkUIMaker/build/CMakeFiles/GtkUIMaker.dir
-/home/yammy/Code/GtkUIMaker/build/CMakeFiles/package.dir
-/home/yammy/Code/GtkUIMaker/build/CMakeFiles/package_source.dir
-/home/yammy/Code/GtkUIMaker/build/CMakeFiles/edit_cache.dir
-/home/yammy/Code/GtkUIMaker/build/CMakeFiles/rebuild_cache.dir
-/home/yammy/Code/GtkUIMaker/build/lib/argparse-3.2/CMakeFiles/package.dir
-/home/yammy/Code/GtkUIMaker/build/lib/argparse-3.2/CMakeFiles/package_source.dir
-/home/yammy/Code/GtkUIMaker/build/lib/argparse-3.2/CMakeFiles/edit_cache.dir
-/home/yammy/Code/GtkUIMaker/build/lib/argparse-3.2/CMakeFiles/rebuild_cache.dir
