@@ -6,4 +6,5 @@ sudo apt install -y \
  make \
  gcc \
  cmake \
- pkg-config
+ pkg-config \
+ clang-format
